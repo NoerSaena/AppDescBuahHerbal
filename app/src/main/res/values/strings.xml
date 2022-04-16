@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppDescBuahHerbal</string>
+    <string name="buahherbal_name">Buahherbal Name</string>
+    <string name="description">Description</string>
+</resources>
